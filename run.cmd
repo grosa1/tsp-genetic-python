@@ -1,0 +1,1 @@
+py tsp-genetic-python.py > output.txt

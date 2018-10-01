@@ -1,0 +1,212 @@
+Read 'data/qatar.txt': 1/194 lines
+Read 'data/qatar.txt': 2/194 lines
+Read 'data/qatar.txt': 3/194 lines
+Read 'data/qatar.txt': 4/194 lines
+Read 'data/qatar.txt': 5/194 lines
+Read 'data/qatar.txt': 6/194 lines
+Read 'data/qatar.txt': 7/194 lines
+Read 'data/qatar.txt': 8/194 lines
+Read 'data/qatar.txt': 9/194 lines
+Read 'data/qatar.txt': 10/194 lines
+Read 'data/qatar.txt': 11/194 lines
+Read 'data/qatar.txt': 12/194 lines
+Read 'data/qatar.txt': 13/194 lines
+Read 'data/qatar.txt': 14/194 lines
+Read 'data/qatar.txt': 15/194 lines
+Read 'data/qatar.txt': 16/194 lines
+Read 'data/qatar.txt': 17/194 lines
+Read 'data/qatar.txt': 18/194 lines
+Read 'data/qatar.txt': 19/194 lines
+Read 'data/qatar.txt': 20/194 lines
+Read 'data/qatar.txt': 21/194 lines
+Read 'data/qatar.txt': 22/194 lines
+Read 'data/qatar.txt': 23/194 lines
+Read 'data/qatar.txt': 24/194 lines
+Read 'data/qatar.txt': 25/194 lines
+Read 'data/qatar.txt': 26/194 lines
+Read 'data/qatar.txt': 27/194 lines
+Read 'data/qatar.txt': 28/194 lines
+Read 'data/qatar.txt': 29/194 lines
+Read 'data/qatar.txt': 30/194 lines
+Read 'data/qatar.txt': 31/194 lines
+Read 'data/qatar.txt': 32/194 lines
+Read 'data/qatar.txt': 33/194 lines
+Read 'data/qatar.txt': 34/194 lines
+Read 'data/qatar.txt': 35/194 lines
+Read 'data/qatar.txt': 36/194 lines
+Read 'data/qatar.txt': 37/194 lines
+Read 'data/qatar.txt': 38/194 lines
+Read 'data/qatar.txt': 39/194 lines
+Read 'data/qatar.txt': 40/194 lines
+Read 'data/qatar.txt': 41/194 lines
+Read 'data/qatar.txt': 42/194 lines
+Read 'data/qatar.txt': 43/194 lines
+Read 'data/qatar.txt': 44/194 lines
+Read 'data/qatar.txt': 45/194 lines
+Read 'data/qatar.txt': 46/194 lines
+Read 'data/qatar.txt': 47/194 lines
+Read 'data/qatar.txt': 48/194 lines
+Read 'data/qatar.txt': 49/194 lines
+Read 'data/qatar.txt': 50/194 lines
+Read 'data/qatar.txt': 51/194 lines
+Read 'data/qatar.txt': 52/194 lines
+Read 'data/qatar.txt': 53/194 lines
+Read 'data/qatar.txt': 54/194 lines
+Read 'data/qatar.txt': 55/194 lines
+Read 'data/qatar.txt': 56/194 lines
+Read 'data/qatar.txt': 57/194 lines
+Read 'data/qatar.txt': 58/194 lines
+Read 'data/qatar.txt': 59/194 lines
+Read 'data/qatar.txt': 60/194 lines
+Read 'data/qatar.txt': 61/194 lines
+Read 'data/qatar.txt': 62/194 lines
+Read 'data/qatar.txt': 63/194 lines
+Read 'data/qatar.txt': 64/194 lines
+Read 'data/qatar.txt': 65/194 lines
+Read 'data/qatar.txt': 66/194 lines
+Read 'data/qatar.txt': 67/194 lines
+Read 'data/qatar.txt': 68/194 lines
+Read 'data/qatar.txt': 69/194 lines
+Read 'data/qatar.txt': 70/194 lines
+Read 'data/qatar.txt': 71/194 lines
+Read 'data/qatar.txt': 72/194 lines
+Read 'data/qatar.txt': 73/194 lines
+Read 'data/qatar.txt': 74/194 lines
+Read 'data/qatar.txt': 75/194 lines
+Read 'data/qatar.txt': 76/194 lines
+Read 'data/qatar.txt': 77/194 lines
+Read 'data/qatar.txt': 78/194 lines
+Read 'data/qatar.txt': 79/194 lines
+Read 'data/qatar.txt': 80/194 lines
+Read 'data/qatar.txt': 81/194 lines
+Read 'data/qatar.txt': 82/194 lines
+Read 'data/qatar.txt': 83/194 lines
+Read 'data/qatar.txt': 84/194 lines
+Read 'data/qatar.txt': 85/194 lines
+Read 'data/qatar.txt': 86/194 lines
+Read 'data/qatar.txt': 87/194 lines
+Read 'data/qatar.txt': 88/194 lines
+Read 'data/qatar.txt': 89/194 lines
+Read 'data/qatar.txt': 90/194 lines
+Read 'data/qatar.txt': 91/194 lines
+Read 'data/qatar.txt': 92/194 lines
+Read 'data/qatar.txt': 93/194 lines
+Read 'data/qatar.txt': 94/194 lines
+Read 'data/qatar.txt': 95/194 lines
+Read 'data/qatar.txt': 96/194 lines
+Read 'data/qatar.txt': 97/194 lines
+Read 'data/qatar.txt': 98/194 lines
+Read 'data/qatar.txt': 99/194 lines
+Read 'data/qatar.txt': 100/194 lines
+Read 'data/qatar.txt': 101/194 lines
+Read 'data/qatar.txt': 102/194 lines
+Read 'data/qatar.txt': 103/194 lines
+Read 'data/qatar.txt': 104/194 lines
+Read 'data/qatar.txt': 105/194 lines
+Read 'data/qatar.txt': 106/194 lines
+Read 'data/qatar.txt': 107/194 lines
+Read 'data/qatar.txt': 108/194 lines
+Read 'data/qatar.txt': 109/194 lines
+Read 'data/qatar.txt': 110/194 lines
+Read 'data/qatar.txt': 111/194 lines
+Read 'data/qatar.txt': 112/194 lines
+Read 'data/qatar.txt': 113/194 lines
+Read 'data/qatar.txt': 114/194 lines
+Read 'data/qatar.txt': 115/194 lines
+Read 'data/qatar.txt': 116/194 lines
+Read 'data/qatar.txt': 117/194 lines
+Read 'data/qatar.txt': 118/194 lines
+Read 'data/qatar.txt': 119/194 lines
+Read 'data/qatar.txt': 120/194 lines
+Read 'data/qatar.txt': 121/194 lines
+Read 'data/qatar.txt': 122/194 lines
+Read 'data/qatar.txt': 123/194 lines
+Read 'data/qatar.txt': 124/194 lines
+Read 'data/qatar.txt': 125/194 lines
+Read 'data/qatar.txt': 126/194 lines
+Read 'data/qatar.txt': 127/194 lines
+Read 'data/qatar.txt': 128/194 lines
+Read 'data/qatar.txt': 129/194 lines
+Read 'data/qatar.txt': 130/194 lines
+Read 'data/qatar.txt': 131/194 lines
+Read 'data/qatar.txt': 132/194 lines
+Read 'data/qatar.txt': 133/194 lines
+Read 'data/qatar.txt': 134/194 lines
+Read 'data/qatar.txt': 135/194 lines
+Read 'data/qatar.txt': 136/194 lines
+Read 'data/qatar.txt': 137/194 lines
+Read 'data/qatar.txt': 138/194 lines
+Read 'data/qatar.txt': 139/194 lines
+Read 'data/qatar.txt': 140/194 lines
+Read 'data/qatar.txt': 141/194 lines
+Read 'data/qatar.txt': 142/194 lines
+Read 'data/qatar.txt': 143/194 lines
+Read 'data/qatar.txt': 144/194 lines
+Read 'data/qatar.txt': 145/194 lines
+Read 'data/qatar.txt': 146/194 lines
+Read 'data/qatar.txt': 147/194 lines
+Read 'data/qatar.txt': 148/194 lines
+Read 'data/qatar.txt': 149/194 lines
+Read 'data/qatar.txt': 150/194 lines
+Read 'data/qatar.txt': 151/194 lines
+Read 'data/qatar.txt': 152/194 lines
+Read 'data/qatar.txt': 153/194 lines
+Read 'data/qatar.txt': 154/194 lines
+Read 'data/qatar.txt': 155/194 lines
+Read 'data/qatar.txt': 156/194 lines
+Read 'data/qatar.txt': 157/194 lines
+Read 'data/qatar.txt': 158/194 lines
+Read 'data/qatar.txt': 159/194 lines
+Read 'data/qatar.txt': 160/194 lines
+Read 'data/qatar.txt': 161/194 lines
+Read 'data/qatar.txt': 162/194 lines
+Read 'data/qatar.txt': 163/194 lines
+Read 'data/qatar.txt': 164/194 lines
+Read 'data/qatar.txt': 165/194 lines
+Read 'data/qatar.txt': 166/194 lines
+Read 'data/qatar.txt': 167/194 lines
+Read 'data/qatar.txt': 168/194 lines
+Read 'data/qatar.txt': 169/194 lines
+Read 'data/qatar.txt': 170/194 lines
+Read 'data/qatar.txt': 171/194 lines
+Read 'data/qatar.txt': 172/194 lines
+Read 'data/qatar.txt': 173/194 lines
+Read 'data/qatar.txt': 174/194 lines
+Read 'data/qatar.txt': 175/194 lines
+Read 'data/qatar.txt': 176/194 lines
+Read 'data/qatar.txt': 177/194 lines
+Read 'data/qatar.txt': 178/194 lines
+Read 'data/qatar.txt': 179/194 lines
+Read 'data/qatar.txt': 180/194 lines
+Read 'data/qatar.txt': 181/194 lines
+Read 'data/qatar.txt': 182/194 lines
+Read 'data/qatar.txt': 183/194 lines
+Read 'data/qatar.txt': 184/194 lines
+Read 'data/qatar.txt': 185/194 lines
+Read 'data/qatar.txt': 186/194 lines
+Read 'data/qatar.txt': 187/194 lines
+Read 'data/qatar.txt': 188/194 lines
+Read 'data/qatar.txt': 189/194 lines
+Read 'data/qatar.txt': 190/194 lines
+Read 'data/qatar.txt': 191/194 lines
+Read 'data/qatar.txt': 192/194 lines
+Read 'data/qatar.txt': 193/194 lines
+Read 'data/qatar.txt': 194/194 lines
+Read 'data/qatar.txt': 195/194 lines
+---Time reading file and creating Cities: 1.3195507526397705 seconds ---
+
+Calculating distances...
+---Time Calculating distances: 0.039928436279296875 seconds ---
+
+Searching for shortest way possible...
+Calculating GA_loop
+Creates the population:
+Finished Creation of the population
+Finished evolving 0 generations.
+Elapsed time was 60.6 seconds.
+ 
+Initial best distance: 83303.68
+Final best distance:   40213.03
+The best route went via:
+    C64,C95,C99,C89,C34,C29,C38,C59,C90,C147,C162,C148,C166,C154,C169,C179,C174,C125,C41,C42,C70,C58,C9,C10,C6,C1,C36,C94,C149,C163,C146,C140,C184,C165,C143,C74,C12,C5,C56,C117,C116,C115,C88,C13,C63,C20,C65,C71,C57,C124,C123,C120,C32,C18,C45,C54,C19,C55,C24,C91,C106,C133,C76,C25,C60,C22,C40,C47,C27,C21,C68,C67,C73,C83,C108,C96,C119,C173,C192,C176,C111,C80,C28,C98,C85,C86,C8,C4,C16,C101,C112,C118,C132,C156,C152,C151,C182,C191,C187,C180,C153,C46,C53,C100,C105,C92,C103,C81,C84,C51,C39,C11,C82,C104,C136,C159,C126,C138,C139,C175,C168,C177,C178,C171,C158,C144,C142,C145,C161,C181,C193,C122,C107,C52,C35,C31,C66,C15,C14,C127,C114,C62,C17,C72,C131,C155,C189,C190,C194,C129,C43,C33,C110,C121,C186,C172,C157,C150,C170,C185,C141,C137,C109,C102,C87,C26,C7,C3,C2,C23,C77,C37,C44,C50,C30,C48,C49,C61,C69,C75,C97,C113,C78,C79,C128,C167,C164,C188,C183,C130,C134,C135,C160,C93
+---Route found in 60.637746810913086 seconds ---
