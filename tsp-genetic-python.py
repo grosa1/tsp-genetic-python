@@ -29,16 +29,16 @@ list_of_cities =[]
 k_n_generations = 0
 
 #time limit in seconds, no limit if =0
-TIME_LIMIT = 60
+TIME_LIMIT = 1800
 
 # probability that an individual Route will mutate
-k_mut_prob = 0.6
+k_mut_prob = 0.4
 
 # Population size of 1 generation (RoutePop)
-k_population_size = 250
+k_population_size = 5000
 
 # Size of the tournament selection. 
-tournament_size = 7
+tournament_size = 20
 
 # If elitism is True, the best from one generation will carried over to the next.
 elitism = True
@@ -380,32 +380,6 @@ class GA(object):
 
         return route_to_mut
 
-    def mutate_2opt(route_to_mut):
-        '''
-        Route() --> Route()
-
-        Swaps two random indexes in route_to_mut.route. Runs k_mut_prob*100 % of the time
-        '''
-        # k_mut_prob %
-        if random.random() < k_mut_prob:
-
-            for i in range(len(route_to_mut.route)):
-                for ii in range(len(route_to_mut.route)): # i is a, i + 1 is b, ii is c, ii+1 is d
-                    if (route_to_mut.route[i].distance_to[route_to_mut.route[i-len(route_to_mut.route)+1].name]
-                     + route_to_mut.route[ii].distance_to[route_to_mut.route[ii-len(route_to_mut.route)+1].name]
-                     > route_to_mut.route[i].distance_to[route_to_mut.route[ii].name]
-                     + route_to_mut.route[i-len(route_to_mut.route)+1].distance_to[route_to_mut.route[ii-len(route_to_mut.route)+1].name]):
-
-                        c_to_swap = route_to_mut.route[ii]
-                        b_to_swap = route_to_mut.route[i-len(route_to_mut.route)+1]
-
-                        route_to_mut.route[i-len(route_to_mut.route)+1] = c_to_swap
-                        route_to_mut.route[ii] = b_to_swap 
-
-            route_to_mut.recalc_rt_len()
-
-        return route_to_mut
-
     def tournament_select(self, population):
         '''
         RoutePop() --> Route()
@@ -529,6 +503,7 @@ class App(object):
 
             x +=1
             elapsed_time = time.time() - start_time
+            print("Generation: " + str(x) + ", elapsed_time: {0:.1f}".format(elapsed_time) + " s, " + "best route: {0:.2f}".format(best_route.length))
             if (x == n_generations and n_generations > 0) or (elapsed_time >= time_limit and time_limit > 0):
                 done = True
 
@@ -569,6 +544,7 @@ def specific_cities2():
     """function to calculate the route for files in data folder with coordinates"""
     start_time = time.time()
     f = open("data/qatar.txt", "r")
+    f.readline()
     f.readline()
     f.readline()
     f.readline()

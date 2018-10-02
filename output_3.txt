@@ -1,0 +1,351 @@
+# Number of generations to run for, no limit if =0
+k_n_generations = 0
+
+#time limit in seconds, no limit if =0
+TIME_LIMIT = 1800
+
+# probability that an individual Route will mutate
+k_mut_prob = 0.4
+
+# Population size of 1 generation (RoutePop)
+k_population_size = 5000
+
+# Size of the tournament selection. 
+tournament_size = 20
+
+Read 'data/qatar.txt': 1/194 lines
+Read 'data/qatar.txt': 2/194 lines
+Read 'data/qatar.txt': 3/194 lines
+Read 'data/qatar.txt': 4/194 lines
+Read 'data/qatar.txt': 5/194 lines
+Read 'data/qatar.txt': 6/194 lines
+Read 'data/qatar.txt': 7/194 lines
+Read 'data/qatar.txt': 8/194 lines
+Read 'data/qatar.txt': 9/194 lines
+Read 'data/qatar.txt': 10/194 lines
+Read 'data/qatar.txt': 11/194 lines
+Read 'data/qatar.txt': 12/194 lines
+Read 'data/qatar.txt': 13/194 lines
+Read 'data/qatar.txt': 14/194 lines
+Read 'data/qatar.txt': 15/194 lines
+Read 'data/qatar.txt': 16/194 lines
+Read 'data/qatar.txt': 17/194 lines
+Read 'data/qatar.txt': 18/194 lines
+Read 'data/qatar.txt': 19/194 lines
+Read 'data/qatar.txt': 20/194 lines
+Read 'data/qatar.txt': 21/194 lines
+Read 'data/qatar.txt': 22/194 lines
+Read 'data/qatar.txt': 23/194 lines
+Read 'data/qatar.txt': 24/194 lines
+Read 'data/qatar.txt': 25/194 lines
+Read 'data/qatar.txt': 26/194 lines
+Read 'data/qatar.txt': 27/194 lines
+Read 'data/qatar.txt': 28/194 lines
+Read 'data/qatar.txt': 29/194 lines
+Read 'data/qatar.txt': 30/194 lines
+Read 'data/qatar.txt': 31/194 lines
+Read 'data/qatar.txt': 32/194 lines
+Read 'data/qatar.txt': 33/194 lines
+Read 'data/qatar.txt': 34/194 lines
+Read 'data/qatar.txt': 35/194 lines
+Read 'data/qatar.txt': 36/194 lines
+Read 'data/qatar.txt': 37/194 lines
+Read 'data/qatar.txt': 38/194 lines
+Read 'data/qatar.txt': 39/194 lines
+Read 'data/qatar.txt': 40/194 lines
+Read 'data/qatar.txt': 41/194 lines
+Read 'data/qatar.txt': 42/194 lines
+Read 'data/qatar.txt': 43/194 lines
+Read 'data/qatar.txt': 44/194 lines
+Read 'data/qatar.txt': 45/194 lines
+Read 'data/qatar.txt': 46/194 lines
+Read 'data/qatar.txt': 47/194 lines
+Read 'data/qatar.txt': 48/194 lines
+Read 'data/qatar.txt': 49/194 lines
+Read 'data/qatar.txt': 50/194 lines
+Read 'data/qatar.txt': 51/194 lines
+Read 'data/qatar.txt': 52/194 lines
+Read 'data/qatar.txt': 53/194 lines
+Read 'data/qatar.txt': 54/194 lines
+Read 'data/qatar.txt': 55/194 lines
+Read 'data/qatar.txt': 56/194 lines
+Read 'data/qatar.txt': 57/194 lines
+Read 'data/qatar.txt': 58/194 lines
+Read 'data/qatar.txt': 59/194 lines
+Read 'data/qatar.txt': 60/194 lines
+Read 'data/qatar.txt': 61/194 lines
+Read 'data/qatar.txt': 62/194 lines
+Read 'data/qatar.txt': 63/194 lines
+Read 'data/qatar.txt': 64/194 lines
+Read 'data/qatar.txt': 65/194 lines
+Read 'data/qatar.txt': 66/194 lines
+Read 'data/qatar.txt': 67/194 lines
+Read 'data/qatar.txt': 68/194 lines
+Read 'data/qatar.txt': 69/194 lines
+Read 'data/qatar.txt': 70/194 lines
+Read 'data/qatar.txt': 71/194 lines
+Read 'data/qatar.txt': 72/194 lines
+Read 'data/qatar.txt': 73/194 lines
+Read 'data/qatar.txt': 74/194 lines
+Read 'data/qatar.txt': 75/194 lines
+Read 'data/qatar.txt': 76/194 lines
+Read 'data/qatar.txt': 77/194 lines
+Read 'data/qatar.txt': 78/194 lines
+Read 'data/qatar.txt': 79/194 lines
+Read 'data/qatar.txt': 80/194 lines
+Read 'data/qatar.txt': 81/194 lines
+Read 'data/qatar.txt': 82/194 lines
+Read 'data/qatar.txt': 83/194 lines
+Read 'data/qatar.txt': 84/194 lines
+Read 'data/qatar.txt': 85/194 lines
+Read 'data/qatar.txt': 86/194 lines
+Read 'data/qatar.txt': 87/194 lines
+Read 'data/qatar.txt': 88/194 lines
+Read 'data/qatar.txt': 89/194 lines
+Read 'data/qatar.txt': 90/194 lines
+Read 'data/qatar.txt': 91/194 lines
+Read 'data/qatar.txt': 92/194 lines
+Read 'data/qatar.txt': 93/194 lines
+Read 'data/qatar.txt': 94/194 lines
+Read 'data/qatar.txt': 95/194 lines
+Read 'data/qatar.txt': 96/194 lines
+Read 'data/qatar.txt': 97/194 lines
+Read 'data/qatar.txt': 98/194 lines
+Read 'data/qatar.txt': 99/194 lines
+Read 'data/qatar.txt': 100/194 lines
+Read 'data/qatar.txt': 101/194 lines
+Read 'data/qatar.txt': 102/194 lines
+Read 'data/qatar.txt': 103/194 lines
+Read 'data/qatar.txt': 104/194 lines
+Read 'data/qatar.txt': 105/194 lines
+Read 'data/qatar.txt': 106/194 lines
+Read 'data/qatar.txt': 107/194 lines
+Read 'data/qatar.txt': 108/194 lines
+Read 'data/qatar.txt': 109/194 lines
+Read 'data/qatar.txt': 110/194 lines
+Read 'data/qatar.txt': 111/194 lines
+Read 'data/qatar.txt': 112/194 lines
+Read 'data/qatar.txt': 113/194 lines
+Read 'data/qatar.txt': 114/194 lines
+Read 'data/qatar.txt': 115/194 lines
+Read 'data/qatar.txt': 116/194 lines
+Read 'data/qatar.txt': 117/194 lines
+Read 'data/qatar.txt': 118/194 lines
+Read 'data/qatar.txt': 119/194 lines
+Read 'data/qatar.txt': 120/194 lines
+Read 'data/qatar.txt': 121/194 lines
+Read 'data/qatar.txt': 122/194 lines
+Read 'data/qatar.txt': 123/194 lines
+Read 'data/qatar.txt': 124/194 lines
+Read 'data/qatar.txt': 125/194 lines
+Read 'data/qatar.txt': 126/194 lines
+Read 'data/qatar.txt': 127/194 lines
+Read 'data/qatar.txt': 128/194 lines
+Read 'data/qatar.txt': 129/194 lines
+Read 'data/qatar.txt': 130/194 lines
+Read 'data/qatar.txt': 131/194 lines
+Read 'data/qatar.txt': 132/194 lines
+Read 'data/qatar.txt': 133/194 lines
+Read 'data/qatar.txt': 134/194 lines
+Read 'data/qatar.txt': 135/194 lines
+Read 'data/qatar.txt': 136/194 lines
+Read 'data/qatar.txt': 137/194 lines
+Read 'data/qatar.txt': 138/194 lines
+Read 'data/qatar.txt': 139/194 lines
+Read 'data/qatar.txt': 140/194 lines
+Read 'data/qatar.txt': 141/194 lines
+Read 'data/qatar.txt': 142/194 lines
+Read 'data/qatar.txt': 143/194 lines
+Read 'data/qatar.txt': 144/194 lines
+Read 'data/qatar.txt': 145/194 lines
+Read 'data/qatar.txt': 146/194 lines
+Read 'data/qatar.txt': 147/194 lines
+Read 'data/qatar.txt': 148/194 lines
+Read 'data/qatar.txt': 149/194 lines
+Read 'data/qatar.txt': 150/194 lines
+Read 'data/qatar.txt': 151/194 lines
+Read 'data/qatar.txt': 152/194 lines
+Read 'data/qatar.txt': 153/194 lines
+Read 'data/qatar.txt': 154/194 lines
+Read 'data/qatar.txt': 155/194 lines
+Read 'data/qatar.txt': 156/194 lines
+Read 'data/qatar.txt': 157/194 lines
+Read 'data/qatar.txt': 158/194 lines
+Read 'data/qatar.txt': 159/194 lines
+Read 'data/qatar.txt': 160/194 lines
+Read 'data/qatar.txt': 161/194 lines
+Read 'data/qatar.txt': 162/194 lines
+Read 'data/qatar.txt': 163/194 lines
+Read 'data/qatar.txt': 164/194 lines
+Read 'data/qatar.txt': 165/194 lines
+Read 'data/qatar.txt': 166/194 lines
+Read 'data/qatar.txt': 167/194 lines
+Read 'data/qatar.txt': 168/194 lines
+Read 'data/qatar.txt': 169/194 lines
+Read 'data/qatar.txt': 170/194 lines
+Read 'data/qatar.txt': 171/194 lines
+Read 'data/qatar.txt': 172/194 lines
+Read 'data/qatar.txt': 173/194 lines
+Read 'data/qatar.txt': 174/194 lines
+Read 'data/qatar.txt': 175/194 lines
+Read 'data/qatar.txt': 176/194 lines
+Read 'data/qatar.txt': 177/194 lines
+Read 'data/qatar.txt': 178/194 lines
+Read 'data/qatar.txt': 179/194 lines
+Read 'data/qatar.txt': 180/194 lines
+Read 'data/qatar.txt': 181/194 lines
+Read 'data/qatar.txt': 182/194 lines
+Read 'data/qatar.txt': 183/194 lines
+Read 'data/qatar.txt': 184/194 lines
+Read 'data/qatar.txt': 185/194 lines
+Read 'data/qatar.txt': 186/194 lines
+Read 'data/qatar.txt': 187/194 lines
+Read 'data/qatar.txt': 188/194 lines
+Read 'data/qatar.txt': 189/194 lines
+Read 'data/qatar.txt': 190/194 lines
+Read 'data/qatar.txt': 191/194 lines
+Read 'data/qatar.txt': 192/194 lines
+Read 'data/qatar.txt': 193/194 lines
+Read 'data/qatar.txt': 194/194 lines
+Read 'data/qatar.txt': 195/194 lines
+---Time reading file and creating Cities: 2.5909247398376465 seconds ---
+
+Calculating distances...
+---Time Calculating distances: 0.032942771911621094 seconds ---
+
+Searching for shortest way possible...
+Calculating GA_loop
+Creates the population:
+Finished Creation of the population
+Generation: 1, elapsed_time: 15.5 s, best route: 77776.49
+Generation: 2, elapsed_time: 28.9 s, best route: 75976.66
+Generation: 3, elapsed_time: 42.7 s, best route: 70585.23
+Generation: 4, elapsed_time: 57.3 s, best route: 69534.87
+Generation: 5, elapsed_time: 71.3 s, best route: 68578.16
+Generation: 6, elapsed_time: 85.9 s, best route: 67171.50
+Generation: 7, elapsed_time: 99.9 s, best route: 65953.31
+Generation: 8, elapsed_time: 114.5 s, best route: 65178.19
+Generation: 9, elapsed_time: 129.5 s, best route: 63702.35
+Generation: 10, elapsed_time: 145.5 s, best route: 63625.41
+Generation: 11, elapsed_time: 161.7 s, best route: 61748.58
+Generation: 12, elapsed_time: 176.6 s, best route: 60378.82
+Generation: 13, elapsed_time: 191.6 s, best route: 59201.06
+Generation: 14, elapsed_time: 206.8 s, best route: 57476.80
+Generation: 15, elapsed_time: 222.1 s, best route: 56961.31
+Generation: 16, elapsed_time: 237.4 s, best route: 56692.27
+Generation: 17, elapsed_time: 252.3 s, best route: 56127.59
+Generation: 18, elapsed_time: 266.9 s, best route: 54775.55
+Generation: 19, elapsed_time: 281.6 s, best route: 54295.59
+Generation: 20, elapsed_time: 296.3 s, best route: 53166.74
+Generation: 21, elapsed_time: 311.1 s, best route: 52083.44
+Generation: 22, elapsed_time: 325.6 s, best route: 50784.91
+Generation: 23, elapsed_time: 340.2 s, best route: 49967.63
+Generation: 24, elapsed_time: 354.8 s, best route: 49577.73
+Generation: 25, elapsed_time: 369.6 s, best route: 48468.56
+Generation: 26, elapsed_time: 384.2 s, best route: 46711.36
+Generation: 27, elapsed_time: 398.8 s, best route: 46045.13
+Generation: 28, elapsed_time: 413.6 s, best route: 46045.13
+Generation: 29, elapsed_time: 428.4 s, best route: 45468.71
+Generation: 30, elapsed_time: 442.9 s, best route: 44760.34
+Generation: 31, elapsed_time: 457.1 s, best route: 44183.28
+Generation: 32, elapsed_time: 471.1 s, best route: 44183.28
+Generation: 33, elapsed_time: 485.6 s, best route: 43641.22
+Generation: 34, elapsed_time: 500.3 s, best route: 43022.70
+Generation: 35, elapsed_time: 515.2 s, best route: 42698.26
+Generation: 36, elapsed_time: 529.5 s, best route: 41781.51
+Generation: 37, elapsed_time: 543.9 s, best route: 40851.48
+Generation: 38, elapsed_time: 558.4 s, best route: 40487.23
+Generation: 39, elapsed_time: 573.2 s, best route: 39530.17
+Generation: 40, elapsed_time: 587.9 s, best route: 39324.81
+Generation: 41, elapsed_time: 602.3 s, best route: 38961.08
+Generation: 42, elapsed_time: 616.7 s, best route: 38397.92
+Generation: 43, elapsed_time: 631.0 s, best route: 38045.77
+Generation: 44, elapsed_time: 645.4 s, best route: 37620.70
+Generation: 45, elapsed_time: 659.9 s, best route: 37163.16
+Generation: 46, elapsed_time: 674.3 s, best route: 36970.46
+Generation: 47, elapsed_time: 688.7 s, best route: 36717.53
+Generation: 48, elapsed_time: 703.1 s, best route: 36518.09
+Generation: 49, elapsed_time: 717.7 s, best route: 36287.17
+Generation: 50, elapsed_time: 732.3 s, best route: 36119.89
+Generation: 51, elapsed_time: 747.2 s, best route: 35819.48
+Generation: 52, elapsed_time: 761.3 s, best route: 35510.62
+Generation: 53, elapsed_time: 775.8 s, best route: 35138.20
+Generation: 54, elapsed_time: 790.5 s, best route: 35113.20
+Generation: 55, elapsed_time: 805.1 s, best route: 34771.73
+Generation: 56, elapsed_time: 819.6 s, best route: 34470.64
+Generation: 57, elapsed_time: 834.2 s, best route: 34048.85
+Generation: 58, elapsed_time: 848.7 s, best route: 33925.32
+Generation: 59, elapsed_time: 863.3 s, best route: 33769.19
+Generation: 60, elapsed_time: 877.6 s, best route: 33507.77
+Generation: 61, elapsed_time: 892.0 s, best route: 33299.70
+Generation: 62, elapsed_time: 906.2 s, best route: 33098.58
+Generation: 63, elapsed_time: 920.5 s, best route: 33063.59
+Generation: 64, elapsed_time: 934.7 s, best route: 32719.59
+Generation: 65, elapsed_time: 948.9 s, best route: 32483.55
+Generation: 66, elapsed_time: 963.1 s, best route: 32413.50
+Generation: 67, elapsed_time: 977.8 s, best route: 32230.64
+Generation: 68, elapsed_time: 991.9 s, best route: 32114.82
+Generation: 69, elapsed_time: 1006.4 s, best route: 31945.60
+Generation: 70, elapsed_time: 1021.1 s, best route: 31767.10
+Generation: 71, elapsed_time: 1035.4 s, best route: 31571.43
+Generation: 72, elapsed_time: 1049.5 s, best route: 31415.09
+Generation: 73, elapsed_time: 1064.3 s, best route: 31216.85
+Generation: 74, elapsed_time: 1078.5 s, best route: 31089.26
+Generation: 75, elapsed_time: 1092.7 s, best route: 30935.08
+Generation: 76, elapsed_time: 1106.8 s, best route: 30780.08
+Generation: 77, elapsed_time: 1121.2 s, best route: 30663.68
+Generation: 78, elapsed_time: 1135.8 s, best route: 30445.05
+Generation: 79, elapsed_time: 1151.0 s, best route: 30239.63
+Generation: 80, elapsed_time: 1166.1 s, best route: 29971.64
+Generation: 81, elapsed_time: 1181.9 s, best route: 29783.15
+Generation: 82, elapsed_time: 1197.6 s, best route: 29570.40
+Generation: 83, elapsed_time: 1212.5 s, best route: 29331.85
+Generation: 84, elapsed_time: 1227.1 s, best route: 29122.37
+Generation: 85, elapsed_time: 1241.4 s, best route: 29030.49
+Generation: 86, elapsed_time: 1255.5 s, best route: 28932.90
+Generation: 87, elapsed_time: 1270.1 s, best route: 28823.40
+Generation: 88, elapsed_time: 1284.4 s, best route: 28760.85
+Generation: 89, elapsed_time: 1298.9 s, best route: 28562.80
+Generation: 90, elapsed_time: 1313.3 s, best route: 28503.52
+Generation: 91, elapsed_time: 1327.6 s, best route: 28370.24
+Generation: 92, elapsed_time: 1341.7 s, best route: 28299.54
+Generation: 93, elapsed_time: 1356.1 s, best route: 28148.64
+Generation: 94, elapsed_time: 1370.3 s, best route: 27985.83
+Generation: 95, elapsed_time: 1384.7 s, best route: 27973.28
+Generation: 96, elapsed_time: 1399.0 s, best route: 27857.29
+Generation: 97, elapsed_time: 1413.5 s, best route: 27852.09
+Generation: 98, elapsed_time: 1427.8 s, best route: 27771.27
+Generation: 99, elapsed_time: 1442.4 s, best route: 27585.45
+Generation: 100, elapsed_time: 1456.9 s, best route: 27558.58
+Generation: 101, elapsed_time: 1471.4 s, best route: 27426.17
+Generation: 102, elapsed_time: 1486.5 s, best route: 27298.49
+Generation: 103, elapsed_time: 1501.6 s, best route: 27156.64
+Generation: 104, elapsed_time: 1516.2 s, best route: 27043.04
+Generation: 105, elapsed_time: 1530.7 s, best route: 27037.83
+Generation: 106, elapsed_time: 1545.1 s, best route: 26960.47
+Generation: 107, elapsed_time: 1559.6 s, best route: 26892.55
+Generation: 108, elapsed_time: 1574.4 s, best route: 26825.05
+Generation: 109, elapsed_time: 1588.8 s, best route: 26767.28
+Generation: 110, elapsed_time: 1603.1 s, best route: 26700.84
+Generation: 111, elapsed_time: 1617.9 s, best route: 26600.29
+Generation: 112, elapsed_time: 1632.2 s, best route: 26538.16
+Generation: 113, elapsed_time: 1646.9 s, best route: 26322.92
+Generation: 114, elapsed_time: 1661.3 s, best route: 26252.09
+Generation: 115, elapsed_time: 1675.9 s, best route: 26221.35
+Generation: 116, elapsed_time: 1691.3 s, best route: 26150.18
+Generation: 117, elapsed_time: 1706.3 s, best route: 25679.51
+Generation: 118, elapsed_time: 1721.0 s, best route: 25577.60
+Generation: 119, elapsed_time: 1735.1 s, best route: 25473.45
+Generation: 120, elapsed_time: 1749.6 s, best route: 25293.07
+Generation: 121, elapsed_time: 1764.1 s, best route: 25291.25
+Generation: 122, elapsed_time: 1778.2 s, best route: 25279.93
+Generation: 123, elapsed_time: 1792.4 s, best route: 25225.70
+Generation: 124, elapsed_time: 1808.5 s, best route: 25171.20
+Finished evolving 0 generations.
+Elapsed time was 1808.5 seconds.
+ 
+Initial best distance: 80949.27
+Final best distance:   25171.20
+The best route went via:
+    C190,C177,C170,C112,C53,C19,C15,C32,C117,C116,C155,C171,C193,C191,C180,C178,C80,C71,C72,C93,C106,C138,C146,C156,C145,C144,C141,C152,C162,C167,C158,C121,C100,C73,C47,C39,C52,C66,C21,C17,C25,C14,C8,C6,C4,C68,C97,C102,C109,C113,C119,C169,C176,C182,C132,C126,C125,C114,C94,C63,C20,C7,C5,C9,C30,C31,C41,C38,C56,C48,C44,C46,C67,C74,C69,C57,C77,C88,C95,C120,C133,C143,C151,C159,C181,C188,C189,C187,C179,C172,C137,C98,C85,C86,C65,C16,C24,C18,C37,C54,C35,C43,C58,C50,C64,C60,C62,C59,C90,C99,C82,C87,C78,C92,C105,C108,C135,C184,C173,C157,C154,C139,C142,C134,C130,C127,C104,C111,C140,C149,C163,C161,C150,C153,C147,C129,C128,C123,C124,C148,C160,C166,C185,C168,C165,C81,C79,C40,C27,C22,C29,C28,C70,C83,C96,C107,C110,C115,C118,C131,C136,C122,C103,C75,C23,C26,C33,C45,C61,C51,C34,C42,C12,C3,C11,C13,C36,C89,C101,C76,C91,C84,C55,C49,C10,C2,C1,C164,C174,C186,C194,C183,C175,C192
+---Route found in 1808.5735824108124 seconds ---
